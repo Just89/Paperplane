@@ -20,7 +20,7 @@
 			//Colormaterial for the Paperplane
 			_colorMaterial = new ColorMaterial(0xFFF000, 0.5);
 			//Make sure its the same on both sides
-            _colorMaterial.doubleSided = true;
+            		_colorMaterial.doubleSided = true;
 			//Super function for setting up the Paperplane
 			super(_colorMaterial, 8);
 		}
