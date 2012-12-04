@@ -3,7 +3,7 @@ Paperplane
 
 Scripting language:       Actionscript 3  <br/>
 Framworks:                Papervision3D  <br/>
-development environment:  FlashDevelop <br/>
+Development environment:  FlashDevelop <br/>
 
 general description:
 Paper Plane was my first experience with object oriented programming. Paper Plane is made with Papervision 3D framework 
